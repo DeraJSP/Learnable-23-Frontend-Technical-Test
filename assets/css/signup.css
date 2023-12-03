@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Poppins", sans-serif;
+}
+
+.jsp-form {
+	overflow: hidden;
+}
+
+.jsp-btns {
+	padding: 56px 89px 60px 89px;
+}
+
+.jsp-btns button {
+	padding: 20px 40px 19.5px 40px;
+	width: 375px;
+
+
+}
+
+.jsp-btns span {
+	color: #333;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+body {
+	background-image: url("../images/bg.png");
+	height: 100vh;
+}
+
+.d-flex {
+	row-gap: 20px;
+}
