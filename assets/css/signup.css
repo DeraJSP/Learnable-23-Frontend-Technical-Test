@@ -15,10 +15,9 @@ body {
 }
 
 .jsp-btns button {
-	padding: 20px 40px 19.5px 40px;
+	padding: 5px 40px 5px 40px;
 	width: 375px;
-
-
+	height: 60px;
 }
 
 .jsp-btns span {
@@ -34,6 +33,23 @@ body {
 	height: 100vh;
 }
 
-.d-flex {
-	row-gap: 20px;
+.tie {
+	padding-left: 150px;
+	padding-bottom: 25px;
+}
+
+h1 {
+	padding-bottom: 9px;
+}
+
+.mail  {
+	padding-bottom: 40px;
+}
+
+.top {
+	margin-bottom: 80px;
+}
+
+button {
+	margin-bottom: 20px;
 }

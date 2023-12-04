@@ -9,6 +9,26 @@ body {
 }
 
 .trendy {
-	color: skyblue !important;
+	color: rgba(68, 195, 235, 0.80);
+	font-family: Poppins;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	text-transform: uppercase;
 }
 
+.btn {
+	background-color: #E87A14 !important;
+	color: white !important;
+}
+
+.doubt {
+	color: #000;
+	font-family: Poppins;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	letter-spacing: 4.8px;
+}
